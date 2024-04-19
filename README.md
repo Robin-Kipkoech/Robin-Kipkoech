@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Robin-Kipkoech
 - 👀 I’m interested in becoming a back end developer.
 - 🌱 I’m currently learning Java and C++.
-- 💞️ I’m looking to collaborate on other developers so solve sample problems and participate on projects.
+- 💞️ I’m looking to collaborate with other developers so solve sample problems and participate in projects posted.
 - 📫 you can reach me on email as kogorobin@gmail.com
 - ⚡ Fun fact: Java was mad by an accident.
 
